@@ -74,15 +74,19 @@ Client logic will be implemented in **Part 2** of this project. Stay tuned for u
 ## How to Run  
 
 ### Running the Server  
-1. Navigate to the project directory.  
+1. Navigate to the server directory.  
 2. Run the server:  
    ```bash  
    cargo run --bin server  
    ```  
-3. The server will start listening for connections on `127.0.0.1:8080`.  
+3. The server will start listening for connections on `127.0.0.1:8080`. 
 
 ### Running the Client  
-The client logic will be added in **Part 2**.  
+1. Navigate to the client directory.  
+2. Run the client:  
+   ```bash  
+   cargo run --bin server  
+   ```  
 
 ---
 
